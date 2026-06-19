@@ -35,7 +35,7 @@ This Repo demonstrates various NumPy operations used in Python for numerical com
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/numpy-operations.git
+git clone https://github.com/jaypal7903/numpy
 ```
 
 2. Navigate to the project folder:
